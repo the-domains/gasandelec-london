@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GasandElec-London]]></title>
+        <description><![CDATA[GasandElec-London]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 16:09:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>GAS SAFE ENGINEERS</p>]]></description>
+            <link>http://www.gasandelec-london.co.uk/</link>
+            <guid isPermaLink="false">ca58c973-8361-45cc-bd31-1d6e2ef10879</guid>
+            <pubDate>Sun, 13 Mar 2016 16:07:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
