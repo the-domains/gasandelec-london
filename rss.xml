@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[GasandElec-London]]></title>
         <description><![CDATA[GasandElec-London]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gasandelec-london/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 13 Mar 2016 16:09:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/gasandelec-london/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gas and Electricity Testing on 0207 175 0435 in London www.gasandelec-london.co.uk]]></title>
+            <description><![CDATA[<article><h1>Gas and Electricity Testing on 0207 175 0435 in London www.gasandelec-london.co.uk</h1><p>GAS SAFE ENGINEERS ELECTRICIANS ELECTRICAL SAFETY TESTING REPORTS AND CERTIFICATES GAS SAFETY TESTING REPORTS AND CERTIFICATES 24 - 7 EMERGENCY CALL OUT SERVICE CALL 0207 175 0435 MOBILE 07758 437370 SERVICES 24-7 Emergency Call Outs Landlord Certificates Home Buyer Reports Electrical Installation Condition Reports ( EICR ) Office Safety Tests</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d81871b5eaa0c9ceb115b000c8eae9d77349a47.jpg"></article>]]></description>
+            <link>https://vimeo.com/158806184?utm_source=email&amp;utm_medium=vimeo-cliptranscode-201504&amp;utm_campaign=29220</link>
+            <guid isPermaLink="false">054f32e3-41a7-40c7-ba3d-1ae80e7384e9</guid>
+            <pubDate>Sun, 13 Mar 2016 16:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>GAS SAFE ENGINEERS</p>]]></description>
