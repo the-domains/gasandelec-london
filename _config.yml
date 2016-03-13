@@ -1,0 +1,28 @@
+name: GasandElec-London
+favicon: null
+layout_spectrum: 0.3642747765406966
+typography_spectrum: 0.9093890255317092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1864826453384012
+  lightness: 0.4424154800362885
+  saturation: 0.7636429402045906
+  rhythmicContrast: 0.5753913277294487
+purpose: []
